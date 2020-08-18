@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1092524115630",
+    "firebase_url": "https://hours-d7beb.firebaseio.com",
+    "project_id": "hours-d7beb",
+    "storage_bucket": "hours-d7beb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092524115630:android:c80f9b502fceace8d88f3f",
+        "android_client_info": {
+          "package_name": "com.fiftyhours"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092524115630-3j3bjbl5jeig4cqdj69ckhrqrqtvi35f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fiftyhours",
+            "certificate_hash": "bf06cfe6ac30a7b80d7347df880bcb84c155d633"
+          }
+        },
+        {
+          "client_id": "1092524115630-p717h2t6uth6t7pvemnb6up3bkdg0ll6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcMgkeLuCKSUJ9wDM5JzG7-fSP2c0MZog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092524115630-p717h2t6uth6t7pvemnb6up3bkdg0ll6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
